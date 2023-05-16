@@ -6,4 +6,4 @@ Hello, world.
 
 # More Information
 
-Having fun with Git.
+Not having fun with Git.
